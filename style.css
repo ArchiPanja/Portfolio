@@ -1,0 +1,12 @@
+.blue{
+    color:rgb(0, 47, 255);
+}
+li{
+    list-style:none;
+}
+
+.cont{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
